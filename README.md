@@ -2,7 +2,7 @@
 
 Hello, I'm yukatan(@yuktn), a Korean student developer, my timezone is GMT+9(KST).
 
-I'm currently working on **yypa**, a typer-style competitive io game.
+I'm currently working on **typa**, a typer-style competitive io game.
 
 I'm fluent in English and Korean.
 My primary programming language is Javascript, and I use Next JS, Svelte, and Node.JS for the frameworks.
