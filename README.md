@@ -2,7 +2,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=yuktn)](https://git.io/streak-stats)
 
-## NEW PORTFOLIO! (no gen ai used) -> (wip)[https://yuktn.dev]
+## NEW PORTFOLIO! (no gen ai used) -> [yuktn.dev][(https://yuktn.dev)
 
 Hello, I'm yukatan(@yuktn), a Korean student developer, my timezone is GMT+9(KST).
 
