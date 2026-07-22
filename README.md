@@ -1,12 +1,8 @@
 # Welcome!
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=yuktn)](https://git.io/streak-stats)
-
 ## new portfolio! -> [yuktn.dev](https://yuktn.dev)
 
 Hello, I'm yukatan(@yuktn), a Korean student developer, my timezone is GMT+9(KST).
-
-I'm currently working on **typa**, a typer-style competitive io game.
 
 I'm fluent in English and Korean.    
 
@@ -16,7 +12,7 @@ I'm fluent in English and Korean.
 
 My primary programming language is
  
- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E).  
+ ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E), and ![Typescript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 
 I use  
 
@@ -32,7 +28,7 @@ I am also fairly confident in
 
 ### Learning
 
-I'm looking forward to learn different languages, like Go, Java, and Typescript.  
+I'm looking forward to learn different languages, like Go, Java.
 
-Many of my earlier codes are partially vibe-coded, but I try to use much less AI in my development lately.  
+Many of my earlier codes are partially vibe-coded, but I try to use much less AI in my development lately, as I'm still learning after all.  
 *(For `simpleNextNode`, I wrote all of my own code!)* **Thank you for visiting!**
